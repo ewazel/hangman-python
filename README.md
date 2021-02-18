@@ -1,5 +1,10 @@
 # Hangman
 
+![game1](printscreens/game1.png)
+
+![game2](printscreens/game2.png)
+
+
 ## Story
 
 Let's hang somebody! Implement the popular [Hangman](<https://en.wikipedia.org/wiki/Hangman_(game)>)
